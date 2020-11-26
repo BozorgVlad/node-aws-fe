@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+my-first-rs-app-1
 
 In the project directory, you can run:  
 You can use NPM instead of YARN (Up to you)  
